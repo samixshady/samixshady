@@ -33,21 +33,29 @@ On the technical side, I build web applications, backend systems, and responsive
 
 **⚡️ Stats**
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=samixshady&theme=transparent&count_private=true&border_radius=10&locale=en" alt="samixshady's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=samixshady&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="samixshady's Most Used Languages" />
-</div>
-<hr>
 
-**🐍 My Contributions**
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
-  </picture>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
+  <!-- Streak Stats -->
+  <img 
+    width="380" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=samixshady&theme=transparent&count_private=true&border_radius=10&locale=en" 
+    alt="samixshady's Streak Stats"
+  />
+
+  <!-- Top Languages (matching size and style) -->
+  <img 
+    width="380"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samixshady&theme=transparent&layout=compact&langs_count=8&border_radius=10&show_icons=true&locale=en&card_width=380"
+    alt="samixshady's Most Used Languages"
+  />
+
 </div>
-<hr>
+
+<br>
+
+
+
 
 
 **💼 Open for Freelance Work.**

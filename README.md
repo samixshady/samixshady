@@ -15,19 +15,39 @@ On the technical side, I build web applications, backend systems, and responsive
 - Building systems that scale
 - Combining creativity (from gaming) with engineering
 
-**⚙️ Tech Stack**
+**⚙️ Languages and Tools**
+<br>
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,php" />
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" />
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+  <!-- Tools & Other Skills -->
+  <img src="https://skillicons.dev/icons?i=git,github,latex,scss,linux,vercel" />
+</p>
+<hr>
 
-Frontend: React • Next.js • TypeScript • JavaScript • Tailwind CSS • Framer Motion
+**⚡️ Stats**
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=samixshady&theme=transparent&count_private=true&border_radius=10&locale=en" alt="samixshady's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=samixshady&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="samixshady's Most Used Languages" />
+</div>
+<hr>
 
-Backend: Node.js • Express • Django • PHP • REST APIs • Server Actions (Next.js)
-
-Databases: MongoDB • PostgreSQL • MySQL • Firebase
-
-**Programming Languages**
-
-Python • Java • C • C++ • ARM Assembly
-Tools & Other Skills
-Git • GitHub • LaTeX • SCSS • OpenGL • Linux basics • Vercel • Resend
+**🐍 My Contributions**
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+<hr>
 
 
 **💼 Open for Freelance Work.**

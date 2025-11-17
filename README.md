@@ -37,11 +37,11 @@ On the technical side, I build web applications, backend systems, and responsive
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
   <!-- Streak Stats -->
-  <img 
-    width="380" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=samixshady&theme=transparent&count_private=true&border_radius=10&locale=en" 
-    alt="samixshady's Streak Stats"
-  />
+<img 
+  width="380" 
+  src="https://streak-stats.demolab.com?user=samixshady&theme=transparent&count_private=true&border_radius=10&locale=en&cachebuster=1" 
+  alt="samixshady's streak stats"
+/>
 
   <!-- Top Languages (matching size and style) -->
   <img 

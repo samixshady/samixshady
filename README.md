@@ -69,8 +69,8 @@ On the technical side, I build web applications, backend systems, and responsive
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-
 <hr>
+
 **Contribution Graph**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samixshady/samixshady/output/pacman-contribution-graph-dark.svg">

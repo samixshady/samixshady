@@ -29,21 +29,19 @@ Python • Java • C • C++ • ARM Assembly
 Tools & Other Skills
 Git • GitHub • LaTeX • SCSS • OpenGL • Linux basics • Vercel • Resend
 
-**🎮 Minecraft Development Experience**
-
-For over 11 years, I’ve managed and developed Minecraft servers including:
-Custom game-mode creation, Plugin configuration & backend logic
-Economy, ranking, and progression systems, Server optimization & performance tuning
-World design & gameplay balancing
-This experience strengthened my skills in system design, logic thinking, creativity, and user experience — all of which translate directly into my software development work.
-
-🌱** Current Focus**
-
-Deepening backend architecture & performance optimization
-Building full-stack applications with clean structure
-Enhancing UI/UX craft and animation quality
-Exploring advanced system design principles
 
 **💼 Open for Freelance Work.**
 **Contact me at samixshady22@gmail.com**
 ========================================================================================
+<br>
+
+<div align="center">
+  <a href="samixshady22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/sarwar-sami-322007257/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>

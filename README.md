@@ -53,7 +53,7 @@ On the technical side, I build web applications, backend systems, and responsive
 
 
 **💼 Open for Freelance Work.**
-**Contact me at samixshady22@gmail.com**
+**Contact me at sarwarsami.cs@gmail.com**
 ========================================================================================
 <br>
 
